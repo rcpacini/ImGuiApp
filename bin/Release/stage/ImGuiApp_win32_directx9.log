@@ -6,12 +6,12 @@
   imgui_impl_dx9.cpp
   imgui_impl_win32.cpp
   main.cpp
-C:\Projects\GitHub\ImGuiApp\main.cpp(30,15): warning C4100: 'nShowCmd': unreferenced formal parameter
-C:\Projects\GitHub\ImGuiApp\main.cpp(29,15): warning C4100: 'lpCmdLine': unreferenced formal parameter
-C:\Projects\GitHub\ImGuiApp\main.cpp(28,15): warning C4100: 'hPrevInstance': unreferenced formal parameter
-C:\Projects\GitHub\ImGuiApp\main.cpp(27,15): warning C4100: 'hInstance': unreferenced formal parameter
+C:\Projects\Cpp\ImGuiAppHg\main.cpp(32,15): warning C4100: 'nShowCmd': unreferenced formal parameter
+C:\Projects\Cpp\ImGuiAppHg\main.cpp(31,15): warning C4100: 'lpCmdLine': unreferenced formal parameter
+C:\Projects\Cpp\ImGuiAppHg\main.cpp(30,15): warning C4100: 'hPrevInstance': unreferenced formal parameter
+C:\Projects\Cpp\ImGuiAppHg\main.cpp(29,15): warning C4100: 'hInstance': unreferenced formal parameter
   Generating code
   Previous IPDB not found, fall back to full compilation.
   All 2096 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Finished generating code
-  ImGuiApp_win32_directx9.vcxproj -> C:\Projects\GitHub\ImGuiApp\bin\Release\ImGuiApp_win32_directx9.exe
+  ImGuiApp_win32_directx9.vcxproj -> C:\Projects\Cpp\ImGuiAppHg\bin\Release\ImGuiApp_win32_directx9.exe

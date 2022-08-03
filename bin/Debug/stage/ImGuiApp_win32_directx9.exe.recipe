@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Projects\GitHub\ImGuiApp\bin\Debug\ImGuiApp_win32_directx9.exe</FullPath>
+      <FullPath>C:\Projects\Cpp\ImGuiAppHg\bin\Debug\ImGuiApp_win32_directx9.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

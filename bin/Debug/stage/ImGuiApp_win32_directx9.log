@@ -1,14 +1,1 @@
-﻿  imgui.cpp
-  imgui_demo.cpp
-  imgui_draw.cpp
-  imgui_tables.cpp
-  imgui_widgets.cpp
-  imgui_impl_dx9.cpp
-  imgui_impl_win32.cpp
-  main.cpp
-C:\Projects\GitHub\ImGuiApp\main.cpp(30,15): warning C4100: 'nShowCmd': unreferenced formal parameter
-C:\Projects\GitHub\ImGuiApp\main.cpp(29,15): warning C4100: 'lpCmdLine': unreferenced formal parameter
-C:\Projects\GitHub\ImGuiApp\main.cpp(28,15): warning C4100: 'hPrevInstance': unreferenced formal parameter
-C:\Projects\GitHub\ImGuiApp\main.cpp(27,15): warning C4100: 'hInstance': unreferenced formal parameter
-  Generating Code...
-  ImGuiApp_win32_directx9.vcxproj -> C:\Projects\GitHub\ImGuiApp\bin\Debug\ImGuiApp_win32_directx9.exe
+﻿  ImGuiApp_win32_directx9.vcxproj -> C:\Projects\Cpp\ImGuiAppHg\bin\Debug\ImGuiApp_win32_directx9.exe

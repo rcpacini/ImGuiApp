@@ -69,10 +69,17 @@
     <ClInclude Include=".\imgui\backends\imgui_impl_win32.h">
       <Filter>source\imgui\backends</Filter>
     </ClInclude>
+    <ClInclude Include="resource.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include=".\imgui\misc\debuggers\imgui.natvis">
       <Filter>source\imgui\misc\debuggers</Filter>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="ImGuiApp.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="ImGuiApp_win32_directx9.rc" />
   </ItemGroup>
 </Project>
